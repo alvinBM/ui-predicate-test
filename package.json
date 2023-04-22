@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "ui-predicate-vue": "^1.1.0",
+    "util": "^0.12.5",
     "vue": "^2.6.14"
   },
   "devDependencies": {
